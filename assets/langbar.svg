@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="44" viewBox="0 0 850 44" role="img" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12">
-  <title>Ruby 64,9%, Python 10,7%, TypeScript 7,7%, JavaScript 5,6%, C++ 5,3%, Outras 5,9%</title>
+  <title>Ruby 68,4%, Python 9,7%, TypeScript 6,9%, JavaScript 5,1%, C++ 4,7%, Outras 5,3%</title>
   <clipPath id="langbar-clip"><rect width="850" height="12" rx="6"/></clipPath>
   <g clip-path="url(#langbar-clip)">
-    <rect x="0.00" y="0" width="548.33" height="12" fill="#CC342D"/>
-    <rect x="551.33" y="0" width="88.22" height="12" fill="#3572A5"/>
-    <rect x="642.55" y="0" width="62.07" height="12" fill="#3178c6"/>
-    <rect x="707.61" y="0" width="44.90" height="12" fill="#f1e05a"/>
-    <rect x="755.51" y="0" width="41.74" height="12" fill="#f34b7d"/>
-    <rect x="800.26" y="0" width="49.74" height="12" fill="#8b949e"/>
+    <rect x="0.00" y="0" width="578.20" height="12" fill="#CC342D"/>
+    <rect x="581.20" y="0" width="79.05" height="12" fill="#3572A5"/>
+    <rect x="663.25" y="0" width="55.53" height="12" fill="#3178c6"/>
+    <rect x="721.78" y="0" width="40.09" height="12" fill="#f1e05a"/>
+    <rect x="764.86" y="0" width="37.25" height="12" fill="#f34b7d"/>
+    <rect x="805.11" y="0" width="44.89" height="12" fill="#8b949e"/>
   </g>
-  <circle cx="4.00" cy="30" r="4" fill="#CC342D"/><text x="14.00" y="34" fill="#6e7681">Ruby<tspan fill="#8b949e"> 64,9%</tspan></text>
-  <circle cx="145.67" cy="30" r="4" fill="#3572A5"/><text x="155.67" y="34" fill="#6e7681">Python<tspan fill="#8b949e"> 10,7%</tspan></text>
-  <circle cx="287.33" cy="30" r="4" fill="#3178c6"/><text x="297.33" y="34" fill="#6e7681">TypeScript<tspan fill="#8b949e"> 7,7%</tspan></text>
-  <circle cx="429.00" cy="30" r="4" fill="#f1e05a"/><text x="439.00" y="34" fill="#6e7681">JavaScript<tspan fill="#8b949e"> 5,6%</tspan></text>
-  <circle cx="570.67" cy="30" r="4" fill="#f34b7d"/><text x="580.67" y="34" fill="#6e7681">C++<tspan fill="#8b949e"> 5,3%</tspan></text>
-  <circle cx="712.33" cy="30" r="4" fill="#8b949e"/><text x="722.33" y="34" fill="#6e7681">Outras<tspan fill="#8b949e"> 5,9%</tspan></text>
+  <circle cx="4.00" cy="30" r="4" fill="#CC342D"/><text x="14.00" y="34" fill="#6e7681">Ruby<tspan fill="#8b949e"> 68,4%</tspan></text>
+  <circle cx="145.67" cy="30" r="4" fill="#3572A5"/><text x="155.67" y="34" fill="#6e7681">Python<tspan fill="#8b949e"> 9,7%</tspan></text>
+  <circle cx="287.33" cy="30" r="4" fill="#3178c6"/><text x="297.33" y="34" fill="#6e7681">TypeScript<tspan fill="#8b949e"> 6,9%</tspan></text>
+  <circle cx="429.00" cy="30" r="4" fill="#f1e05a"/><text x="439.00" y="34" fill="#6e7681">JavaScript<tspan fill="#8b949e"> 5,1%</tspan></text>
+  <circle cx="570.67" cy="30" r="4" fill="#f34b7d"/><text x="580.67" y="34" fill="#6e7681">C++<tspan fill="#8b949e"> 4,7%</tspan></text>
+  <circle cx="712.33" cy="30" r="4" fill="#8b949e"/><text x="722.33" y="34" fill="#6e7681">Outras<tspan fill="#8b949e"> 5,3%</tspan></text>
 </svg>
